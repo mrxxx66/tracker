@@ -1,12 +1,9 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://51.68.122.172/announce
 http://93.88.129.16/announce
 http://bithq.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -22,6 +19,7 @@ http://npupt.com/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -67,6 +65,8 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
+https://torrent.opiums.eu/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
@@ -81,6 +81,7 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -777,7 +778,6 @@ udp://brightstar.freeddns.org:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
-udp://bt.delbertbeta.cc:19943/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.rer.lol:2710/announce
@@ -1166,6 +1166,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
@@ -1196,4 +1197,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
