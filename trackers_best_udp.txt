@@ -678,7 +678,6 @@ udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
-udp://api.alarmasqueretaro.com:3074/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
@@ -859,7 +858,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
