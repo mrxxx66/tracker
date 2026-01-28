@@ -725,7 +725,6 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -739,6 +738,7 @@ udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://dmitrynegoda.com:6969/announce
+udp://dns.xxtor.com:53/announce
 udp://download.nerocloud.me:6969/announce
 udp://dpiui.reedlan.com:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
@@ -836,6 +836,7 @@ udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.u-p.pw:6969/announce
+udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
