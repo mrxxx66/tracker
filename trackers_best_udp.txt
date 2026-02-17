@@ -872,6 +872,7 @@ udp://open.stealth.si:80/announce
 udp://open.u-p.pw:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
+udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -1075,7 +1076,6 @@ udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
-udp://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
