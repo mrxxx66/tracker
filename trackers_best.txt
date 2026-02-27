@@ -1,6 +1,9 @@
+http://117.72.34.150:6969/announce
+http://117.84.154.98:6969/announce
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -33,14 +36,12 @@ http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
+http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -62,7 +63,7 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
-https://torrent.opiums.eu/announce
+https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
@@ -1242,3 +1243,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
