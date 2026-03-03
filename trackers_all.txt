@@ -1059,6 +1059,7 @@ http://tr.cili001.com:8070/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
+http://tr.nyacat.pw:443/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-cdn.moeking.me:2095/announce
 http://tracker-rh.zhuqiy.eu.org/announce
@@ -1138,6 +1139,7 @@ http://tracker.foreverpirates.co:443/announce
 http://tracker.frozen-layer.com:6969/announce
 http://tracker.frozen-layer.net:6969/announce
 http://tracker.gbitt.info/announce
+http://tracker.gcrenwp.top:443/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
@@ -1264,6 +1266,7 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.com/announce
+http://tracker.zhuqiy.com:443/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.eu.org:36107/announce
 http://tracker.zhuqiy.top/announce
