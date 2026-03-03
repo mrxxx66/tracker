@@ -1143,6 +1143,7 @@ http://tracker.gcrenwp.top:443/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top/announce
+http://tracker.ghostchu-services.top:443/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.guguan.000.pe/announce
@@ -3037,6 +3038,7 @@ udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.texoviva.com:9898/announce
+udp://tracker.tfile.co:80/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
