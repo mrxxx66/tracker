@@ -778,6 +778,7 @@ http://bt.endpot.com/announce
 http://bt.firebit.org:2710/announce
 http://bt.henbt.com:2710/announce
 http://bt.ktkj.com:8080/announce
+http://bt.nfshost.com:443/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
@@ -2986,6 +2987,7 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.moxing.party:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
+udp://tracker.nanoha.org:443/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.nitrix.me:6969/announce

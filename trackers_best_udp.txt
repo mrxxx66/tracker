@@ -768,6 +768,7 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -876,11 +877,9 @@ udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.u-p.pw:6969/announce
 udp://open.xxtor.com:3074/announce
-udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
-udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
@@ -930,6 +929,7 @@ udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
+udp://t.overflow.biz:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tc.animereactor.ru:8082/announce
