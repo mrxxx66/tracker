@@ -1185,6 +1185,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.moeblog.cn:443/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.morian.icu:443/announce
 http://tracker.moxing.party:6969/announce
@@ -2831,6 +2832,7 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
+udp://torrent-downloads.to:5869/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.gresille.org:80/announce
 udp://torrent.hificode.in:6969/announce
