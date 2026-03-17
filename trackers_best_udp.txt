@@ -237,6 +237,7 @@ udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
 udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
+udp://187.57.131.78:6969/announce
 udp://187.57.132.20:6969/announce
 udp://187.57.132.246:6969/announce
 udp://187.57.132.65:6969/announce
@@ -783,7 +784,6 @@ udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -829,11 +829,9 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
-udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -903,7 +901,6 @@ udp://passpulse.net:8000/announce
 udp://peerfect.org:6969/announce
 udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
-udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
@@ -943,7 +940,6 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
-udp://t.overflow.biz:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -978,7 +974,6 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.alaskantf.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.army:6969/announce
 udp://tracker.auctor.tv:6969/announce
@@ -1114,6 +1109,7 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
+udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
