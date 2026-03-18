@@ -1,7 +1,8 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
-http://93.88.129.16/announce
+http://51.68.122.172/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -19,7 +20,6 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
 http://s1130642.ha014.t.mydomain.zone/announce
@@ -55,6 +55,7 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://colibri.parrot.run/announce
@@ -69,16 +70,15 @@ https://t1.tokhmi.xyz/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
-https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
+https://tracker.madtia.cc/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://wolf.parrot.run/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com:6969/announce
 udp://101.99.91.160:6969/announce
@@ -911,6 +911,7 @@ udp://ip119.ip-146-59-102.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
+udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
@@ -1233,6 +1234,7 @@ udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
 udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
