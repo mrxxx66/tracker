@@ -504,6 +504,7 @@ udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
 udp://45.63.30.114:6969/announce
+udp://45.7.231.102:80/announce
 udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
 udp://45.92.156.182:2710/announce

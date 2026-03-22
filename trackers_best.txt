@@ -1,6 +1,8 @@
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
+http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
@@ -17,7 +19,6 @@ http://nagios.tks.sumy.ua/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -37,7 +38,7 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -68,6 +69,7 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -580,6 +582,7 @@ udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
 udp://45.63.30.114:6969/announce
+udp://45.7.231.102:80/announce
 udp://45.76.120.37:6969/announce
 udp://45.9.60.30:6969/announce
 udp://45.92.156.182:2710/announce
