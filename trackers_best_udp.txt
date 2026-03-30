@@ -536,6 +536,7 @@ udp://5.45.69.185:6969/announce
 udp://5.75.253.124:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
+udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -744,6 +745,7 @@ udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
@@ -760,7 +762,6 @@ udp://bt.okmp3.ru:2710/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
-udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
