@@ -970,7 +970,6 @@ udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
-udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -996,6 +995,7 @@ udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
+udp://tracker.cutie.dating:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -1149,6 +1149,7 @@ udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
