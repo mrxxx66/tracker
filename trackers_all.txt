@@ -1351,6 +1351,7 @@ http://wegkxfcivgx.ydns.eu/announce
 http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
+http://wtorrent.manalejandro.com:443/announce
 http://www.all4nothin.net/announce
 http://www.ansktracker.net/announce
 http://www.bit-hdtv.com:2710/announce
