@@ -1,6 +1,6 @@
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
-http://34.66.57.33:2710/announce
+http://34.66.57.33:1337/announce
 http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -12,13 +12,10 @@ http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
-http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.x2k.ru/announce
-http://seeders-paradise.org/announce
-http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -26,10 +23,9 @@ http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
-http://tracker-udp.anirena.com/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
-http://tracker.corpscorp.online/announce
 http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -38,8 +34,6 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -55,11 +49,9 @@ https://1337.abcvg.info/announce
 https://agsvpt.trackers.work/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
-https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
-https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://t1.tokhmi.xyz/announce
@@ -68,8 +60,6 @@ https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -1237,6 +1227,7 @@ udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
@@ -1262,3 +1253,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
