@@ -1,4 +1,5 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -13,12 +14,14 @@ http://nagios.tks.sumy.ua/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
@@ -42,7 +45,9 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.bitseduce.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://agsvpt.trackers.work/announce
+https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
@@ -50,7 +55,7 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
-https://t1.tokhmi.xyz/announce
+https://t.hdhome.org/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
@@ -396,6 +401,7 @@ udp://200.168.117.124:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
+udp://200.170.109.194:6969/announce
 udp://200.170.110.108:6969/announce
 udp://200.170.110.114:6969/announce
 udp://200.170.110.170:6969/announce
@@ -1249,3 +1255,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
