@@ -930,6 +930,7 @@ udp://ryjer.com:6969/announce
 udp://saltwood.top:6969/announce
 udp://sanincode.com:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
+udp://secure.pow7.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
@@ -1151,6 +1152,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
