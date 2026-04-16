@@ -1,18 +1,12 @@
-http://0123456789nonexistent.com/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
-http://34.66.57.33/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:2710/announce
 http://34.94.213.23/announce
+http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://btracker.top:11451/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
-http://jvavav.com/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -22,7 +16,6 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -44,7 +37,6 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -55,10 +47,10 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.bitseduce.com/announce
-http://www.torrentsnipe.info:2701/announce
 http://www.yqzuji.com/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
+https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -877,7 +869,6 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
@@ -978,6 +969,7 @@ udp://open.demonii.si:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
+udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.u-p.pw:6969/announce
@@ -1000,7 +992,6 @@ udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
-udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
