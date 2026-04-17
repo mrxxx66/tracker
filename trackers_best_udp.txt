@@ -144,6 +144,7 @@ udp://177.139.47.40:6969/announce
 udp://177.139.47.92:6969/announce
 udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
+udp://177.16.198.58:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.33:6969/announce
 udp://177.172.62.154:6969/announce
@@ -918,6 +919,7 @@ udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
@@ -949,6 +951,7 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
+udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
@@ -973,6 +976,7 @@ udp://torrentvpn.club:6990/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
