@@ -758,6 +758,7 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -854,6 +855,7 @@ udp://lucke.fenesisu.moe:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://madiator.com:6969/announce
 udp://mail.artixlinux.org:6969/announce
+udp://mail.lakameraobscura.com:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
@@ -1063,6 +1065,7 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.renfei.net:8080/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sharebro.in:6969/announce
