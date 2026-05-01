@@ -14,7 +14,6 @@ http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -22,7 +21,6 @@ http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
-http://torrentzilla.org/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
@@ -35,8 +33,6 @@ http://tracker.openzim.org/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
-http://tracker.xfapi.top:7070/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -46,6 +42,5 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://tracker9.bol.bg/announce
-http://uatracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
