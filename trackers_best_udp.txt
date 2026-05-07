@@ -770,7 +770,6 @@ udp://brightstar.freeddns.org:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
-udp://bt.henbt.com:2710/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bt.sc-ol.com:2710/announce
