@@ -211,6 +211,7 @@ udp://185.121.168.96:6969/announce
 udp://185.121.24.141:6969/announce
 udp://185.134.22.3:6969/announce
 udp://185.146.233.150:6969/announce
+udp://185.171.202.111:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
@@ -776,6 +777,7 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -917,6 +919,7 @@ udp://p4p.arenabg.com:1337/announce
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
 udp://passpulse.net:8000/announce
+udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
@@ -957,6 +960,7 @@ udp://storage.groupees.com:6969/announce
 udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
+udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
 udp://t2.pow7.com:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
