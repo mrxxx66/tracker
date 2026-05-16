@@ -1115,7 +1115,6 @@ udp://tracker.torrentbay.to:6969/announce
 udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
