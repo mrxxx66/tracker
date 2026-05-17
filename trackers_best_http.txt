@@ -2,6 +2,8 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
 http://34.94.213.23/announce
+http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -12,8 +14,8 @@ http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
-http://share.hkg-fansub.info/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
