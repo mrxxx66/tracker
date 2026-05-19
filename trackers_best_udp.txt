@@ -518,6 +518,7 @@ udp://38.175.99.50:6969/announce
 udp://41.79.68.156:6969/announce
 udp://43.139.20.56:6969/announce
 udp://43.154.112.29:17272/announce
+udp://43.250.54.126:6969/announce
 udp://43.250.54.137:6969/announce
 udp://44.30.4.3:6969/announce
 udp://44.30.4.4:6969/announce
@@ -929,6 +930,7 @@ udp://pirate.t-1.org:1337/announce
 udp://pow7.com:80/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
+udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
