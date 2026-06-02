@@ -888,6 +888,7 @@ udp://lulz.vpndb.org:3000/announce
 udp://madiator.com:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.realliferpg.de:6969/announce
+udp://mail.segso.net:6969/announce
 udp://market-re.quest:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://mgtracker.org:2710/announce
@@ -942,7 +943,6 @@ udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
-udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -1174,6 +1174,7 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
