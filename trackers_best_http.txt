@@ -1,14 +1,15 @@
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
+http://34.66.57.33:6969/announce
 http://93.88.129.16/announce
-http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://btracker.top:11451/announce
 http://buny.uk:6969/announce
+http://home.yxgz.club:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
@@ -27,7 +28,6 @@ http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.fansub.id/announce
@@ -46,4 +46,3 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://tracker9.bol.bg/announce
 http://uatracker.net/announce
-http://www.wareztorrent.com/announce
