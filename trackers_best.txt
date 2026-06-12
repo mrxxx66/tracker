@@ -1,10 +1,10 @@
 http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://216.144.239.90:6969/announce
+http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -15,9 +15,11 @@ http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
+http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
@@ -49,6 +51,7 @@ https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
+https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
@@ -60,13 +63,14 @@ https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
-https://tracker.manager.itislove.cz/announce
+https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.tvgc.win/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://www.wareztorrent.com/announce
@@ -1220,7 +1224,6 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
