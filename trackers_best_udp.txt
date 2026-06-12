@@ -827,8 +827,6 @@ udp://dataforai.com:31332/announce
 udp://daveking.com:6969/announce
 udp://db.koikia.eu:6969/announce
 udp://debuz.com:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
-udp://denis.stalker.upeer.me:6969/announce
 udp://devops.gay:6969/announce
 udp://dex.email:6969/announce
 udp://discord.heihachi.pw:6969/announce
@@ -927,7 +925,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
@@ -1004,7 +1001,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.btube3.com:2010/announce
-udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
@@ -1149,7 +1145,6 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
