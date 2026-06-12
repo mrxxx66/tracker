@@ -59,6 +59,7 @@ udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
 udp://132.226.6.145:6969/announce
+udp://132.243.161.144:6969/announce
 udp://132.243.174.78:6969/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
@@ -312,6 +313,7 @@ udp://191.255.193.16:6969/announce
 udp://191.255.193.44:6969/announce
 udp://192.3.130.53:1337/announce
 udp://192.95.46.115:6969/announce
+udp://193.148.251.143:6969/announce
 udp://193.148.251.93:6969/announce
 udp://193.177.162.187:6969/announce
 udp://193.187.90.12:6969/announce
