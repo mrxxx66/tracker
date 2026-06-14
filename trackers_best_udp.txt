@@ -794,6 +794,7 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
+udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -996,6 +997,7 @@ udp://torrent.bowed.net:8081/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.hificode.in:6969/announce
 udp://torrent.ubuntu.com:6969/announce
+udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrentclub.tech:6969/announce
