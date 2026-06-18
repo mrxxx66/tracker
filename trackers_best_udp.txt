@@ -637,7 +637,6 @@ udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
-udp://7p41a8967.wicp.vip:22222/announce
 udp://80.71.224.126:1337/announce
 udp://80.71.224.126:6969/announce
 udp://81.230.84.201:6969/announce
@@ -1158,6 +1157,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
