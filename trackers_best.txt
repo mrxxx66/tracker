@@ -16,6 +16,7 @@ http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -33,6 +34,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -43,6 +45,8 @@ http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
@@ -56,23 +60,20 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.wareztorrent.com/announce
 https://1337.abcvg.info/announce
-https://bt.beatrice-raws.org/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
+https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bigbewbs.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
-https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.renfei.net/announce
@@ -558,6 +559,7 @@ udp://23.140.248.9:1337/announce
 udp://23.153.248.128:6969/announce
 udp://23.153.248.2:6969/announce
 udp://23.153.248.83:6969/announce
+udp://23.154.104.2:23333/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.168.232.9:1337/announce
@@ -1239,7 +1241,6 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
@@ -1305,3 +1306,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
