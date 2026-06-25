@@ -298,6 +298,7 @@ udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
 udp://191.23.121.129:6969/announce
 udp://191.23.62.111:6969/announce
+udp://191.23.62.139:6969/announce
 udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
 udp://191.23.71.131:6969/announce
@@ -1156,6 +1157,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
