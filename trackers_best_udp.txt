@@ -827,7 +827,6 @@ udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -933,7 +932,6 @@ udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
-udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
