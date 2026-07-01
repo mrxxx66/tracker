@@ -1,18 +1,13 @@
-http://0d.kebhana.mx:443/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:443/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
+http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
-http://btracker.top:11451/announce
 http://connect.swifte.space:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -24,7 +19,6 @@ http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -39,7 +33,6 @@ http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.anonwebz.xyz:8080/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
@@ -59,13 +52,11 @@ http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
-http://tracker2.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://www.wareztorrent.com/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
-https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
@@ -76,7 +67,6 @@ https://t.audiences.me/announce
 https://t.hdhome.org/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
-https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
@@ -86,10 +76,8 @@ https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.tvgc.win/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
-https://www.wareztorrent.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://101.99.91.160:6969/announce
 udp://101.99.94.187:6969/announce
@@ -913,6 +901,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
+udp://cloud.samtechnic.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
@@ -946,6 +935,7 @@ udp://explodie.org:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://files.project-cataclysm.ru:6969/announce
+udp://files.samtechnic.ir:6969/announce
 udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 udp://freedomalternative.com:6969/announce
@@ -1085,6 +1075,7 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://torrent-downloads.to:5869/announce
@@ -1241,6 +1232,7 @@ udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
@@ -1279,6 +1271,7 @@ udp://whybother.torrentonline.cc:42069/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
+udp://www.loushao.net:8080/announce
 udp://www.nartlof.com.br:6969/announce
 udp://www.nartlof.com:6969/announce
 udp://www.peckservers.com:9000/announce
