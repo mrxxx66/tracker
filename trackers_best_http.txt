@@ -20,6 +20,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -29,6 +30,7 @@ http://thetracker.org/announce
 http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -45,6 +47,7 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.swifte.space:2710/announce
@@ -60,3 +63,4 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://uatracker.net/announce

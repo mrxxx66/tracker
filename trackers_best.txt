@@ -20,6 +20,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -29,6 +30,7 @@ http://thetracker.org/announce
 http://tk.cubicview.site/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -45,6 +47,7 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.swifte.space:2710/announce
@@ -60,8 +63,11 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://uatracker.net/announce
 https://1337.abcvg.info/announce
+https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
+https://chihaya-heroku.120181311.xyz/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -69,11 +75,14 @@ https://shahidrazi.online/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
+https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.keepfrds.com/announce
+https://tracker.manager.itislove.cz/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
