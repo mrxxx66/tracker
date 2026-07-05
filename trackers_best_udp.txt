@@ -947,6 +947,7 @@ udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 udp://parag.rs:6969/announce
 udp://peerfect.org:6969/announce
 udp://pirate.t-1.org:1337/announce
+udp://play.aimisayo.com:6969/announce
 udp://pow7.com:80/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
