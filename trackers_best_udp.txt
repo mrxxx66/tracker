@@ -341,6 +341,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://2.57.214.218:6969/announce
 udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
+udp://200.111.84.93:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
 udp://200.148.11.61:6969/announce
@@ -987,7 +988,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://storage.groupees.com:6969/announce
-udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
 udp://t.overflow.biz:6969/announce
@@ -1128,7 +1128,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-1.org:6969/announce

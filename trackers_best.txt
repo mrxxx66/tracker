@@ -2,13 +2,18 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:6969/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://buny.uk:6969/announce
+http://bz.tracker.bz/announce
 http://connect.swifte.space:2710/announce
-http://irrenhaus.dyndns.dk/announce
+http://home.yxgz.club:6969/announce
+http://i.bandito.org/announce
 http://maxsrv.xyz:9000/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -17,6 +22,8 @@ http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
+http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://t-backup.213891.xyz/announce
@@ -24,12 +31,12 @@ http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.anonwebz.xyz:8080/announce
+http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
@@ -419,6 +426,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://2.57.214.218:6969/announce
 udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
+udp://200.111.84.93:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
 udp://200.148.11.61:6969/announce
@@ -1065,7 +1073,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://storage.groupees.com:6969/announce
-udp://su-data.com:6969/announce
 udp://t.jaekr.sh:6969/announce
 udp://t.nyaatracker.com:80/announce
 udp://t.overflow.biz:6969/announce
@@ -1206,7 +1213,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-1.org:6969/announce
@@ -1301,4 +1307,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
