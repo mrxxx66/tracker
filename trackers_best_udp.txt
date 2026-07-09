@@ -1129,6 +1129,7 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
 udp://tracker.startwork.cv:1337/announce
@@ -1151,6 +1152,7 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
 udp://tracker.uw0.xyz:6969/announce
+udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
