@@ -4,14 +4,13 @@ http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
+http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
-http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
+http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://maxsrv.xyz:9000/announce
 http://mediaclub.tv/announce
@@ -22,7 +21,6 @@ http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -34,6 +32,7 @@ http://tk.cubicview.site/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
@@ -60,8 +59,6 @@ http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
-http://tracker2.torrentino.com/announce
-http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 https://1337.abcvg.info/announce
@@ -82,6 +79,7 @@ https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
@@ -296,6 +294,7 @@ udp://179.98.51.208:6969/announce
 udp://179.98.51.248:6969/announce
 udp://179.98.51.66:6969/announce
 udp://18.191.163.220:6969/announce
+udp://180.131.145.175:6969/announce
 udp://181.214.58.63:6969/announce
 udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
