@@ -2,10 +2,6 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
 http://216.144.239.90:6969/announce
-http://37.120.182.83/announce
-http://37.120.182.83:2710/announce
-http://93.88.129.16/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -21,6 +17,7 @@ http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -28,11 +25,9 @@ http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 http://thetracker.org/announce
-http://tk.cubicview.site/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -41,7 +36,6 @@ http://tracker.anonwebz.xyz:8080/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
-http://tracker.cubicview.site/announce
 http://tracker.cubonegro.org/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -62,13 +56,10 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 https://1337.abcvg.info/announce
-https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
-https://chihaya-heroku.120181311.xyz/announce
 https://opentracker.co/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
-https://shahidrazi.online/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
@@ -78,9 +69,7 @@ https://tr2.trkb.ru/announce
 https://tracker.adgk.net/announce
 https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
-https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.qingwapt.org/announce
