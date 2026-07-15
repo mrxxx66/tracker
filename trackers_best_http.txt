@@ -5,6 +5,7 @@ http://216.144.239.90:6969/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://connect.swifte.space:2710/announce
@@ -13,12 +14,11 @@ http://irrenhaus.dyndns.dk/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
-http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.x2k.ru/announce
+http://retracker.joxnet.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
@@ -28,6 +28,7 @@ http://thetracker.org/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
@@ -46,7 +47,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
