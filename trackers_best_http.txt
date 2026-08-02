@@ -13,14 +13,14 @@ http://34.66.57.33:443/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
+http://93.88.129.16/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
+http://asiatorrent.giize.com:51413/announce
 http://blackz.ro/announce
 http://bt.beatrice-raws.org/announce
 http://bt.dl1234.com/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.poletracker.org:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://btracker.top:11451/announce
 http://buny.uk:6969/announce
@@ -35,14 +35,12 @@ http://jvavav.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
-http://ns3109441.mypdns.org:6969/announce
 http://open.demonii.si/announce
 http://open.trackerlist.xyz/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.spark-rostov.ru/announce
 http://retracker.x2k.ru/announce
 http://seeders-paradise.org/announce
@@ -50,7 +48,6 @@ http://share.hkg-fansub.info/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
-http://supertracker.cc.cd/announce
 http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://tk.cubicview.site/announce
@@ -94,6 +91,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
