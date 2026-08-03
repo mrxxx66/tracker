@@ -17,6 +17,7 @@ http://37.60.249.217:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://blackz.ro/announce
 http://bt.beatrice-raws.org/announce
+http://bt.dl1234.com/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.poletracker.org:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -25,7 +26,6 @@ http://bt1.xxxxbt.cc:6969/announce
 http://btracker.top:11451/announce
 http://buny.uk:6969/announce
 http://bz.tracker.bz/announce
-http://cn.pcfreetime.com:6969/announce
 http://connect.swifte.space:2710/announce
 http://h4.trakx.nibba.trade/announce
 http://home.yxgz.club:6969/announce
@@ -36,7 +36,7 @@ http://jvavav.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
-http://ns3109441.mypdns.org:6969/announce
+http://open.demonii.si/announce
 http://open.trackerlist.xyz/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
