@@ -1083,6 +1083,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.emule.best:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.exe.in.th:6969/announce
+udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
 udp://tracker.filemail.com:6969/announce
@@ -1095,7 +1096,6 @@ udp://tracker.frozen-layer.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.hismz.cn:6969/announce
-udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.iamhansen.xyz:2000/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ilibr.org:80/announce
