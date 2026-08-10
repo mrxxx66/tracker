@@ -7,8 +7,7 @@ http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
-http://bt02.nnm-club.cc:2710/announce
+http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
@@ -16,6 +15,7 @@ http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://ns3109441.mypdns.org:6969/announce
+http://open.demonii.si/announce
 http://opentracker.io/announce
 http://opentracker.xyz/announce
 http://peersteers.org/announce
@@ -54,8 +54,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:7070/announce
-http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -64,9 +62,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://www.bitseduce.com/announce
 https://1337.abcvg.info/announce
-https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://edge-team.cc/announce
@@ -75,7 +71,6 @@ https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
-https://t.hdhome.org/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
@@ -84,7 +79,6 @@ https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
-https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -387,6 +381,7 @@ udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.147:6969/announce
 udp://189.69.168.180:6969/announce
+udp://189.69.168.99:6969/announce
 udp://189.69.169.237:6969/announce
 udp://189.69.169.89:6969/announce
 udp://189.69.170.69:6969/announce
@@ -1151,6 +1146,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.christianbro.pw:6969/announce
+udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce
