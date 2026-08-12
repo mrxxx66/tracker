@@ -1,5 +1,6 @@
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
+https://bt.beatrice-raws.org/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://edge-team.cc/announce
 https://opentracker.co/announce
@@ -16,10 +17,8 @@ https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
-https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
