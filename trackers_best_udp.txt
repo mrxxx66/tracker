@@ -186,6 +186,7 @@ udp://177.188.141.32:6969/announce
 udp://177.215.65.114:6969/announce
 udp://177.215.65.176:6969/announce
 udp://177.215.65.40:6969/announce
+udp://177.215.66.183:6969/announce
 udp://177.215.67.115:6969/announce
 udp://177.215.67.165:6969/announce
 udp://177.215.67.242:6969/announce
@@ -828,7 +829,6 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
-udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
@@ -1135,6 +1135,7 @@ udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -1158,7 +1159,6 @@ udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
-udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.teambelgium.net:6969/announce
