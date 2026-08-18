@@ -812,6 +812,7 @@ udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://atrack.pow7.com:6969/announce
 udp://auratorrent.pl:8089/announce
+udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
@@ -857,6 +858,7 @@ udp://commento.getblog.cn:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
 udp://daveking.com:6969/announce
@@ -1184,8 +1186,6 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
-udp://tracker.zupix.online:1333/announce
-udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
