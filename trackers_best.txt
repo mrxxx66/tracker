@@ -10,6 +10,7 @@ http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
 http://52.70.94.249/announce
 http://93.88.129.16/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -40,7 +41,6 @@ http://tracker-zhuqiy.dgj055.icu/announce
 http://tracker.bittorrent.am/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -70,6 +70,7 @@ https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
@@ -85,11 +86,13 @@ https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.onetracker.net/announce
+https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
+https://wolf.parrot.run/announce
 udp://0205.uptm.ch:6969/announce
 udp://101.99.91.160:6969/announce
 udp://101.99.94.187:6969/announce
