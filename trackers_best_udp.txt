@@ -969,7 +969,6 @@ udp://open.stealth.si:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
-udp://opentracker.io:6969/announce
 udp://opentracker.xyz:443/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -1163,6 +1162,7 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.slowcheetah.org:14760/announce
 udp://tracker.supertracker.net:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
+udp://tracker.t-rb.org:6969/announce
 udp://tracker.tallpenguin.org:15750/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.tfile.co:80/announce
