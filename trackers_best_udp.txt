@@ -776,6 +776,7 @@ udp://9.rarbg.to:2730/announce
 udp://9.rarbg.to:2740/announce
 udp://9.rarbg.to:2800/announce
 udp://9.rarbg.to:2910/announce
+udp://90.226.147.124:6969/announce
 udp://91.177.126.188:6969/announce
 udp://91.186.213.204:6969/announce
 udp://91.208.197.19:6969/announce
