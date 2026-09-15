@@ -5,7 +5,6 @@ https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
-https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
 https://opentracker.co/announce
 https://retracker.gorcomnet.ru/announce
@@ -20,6 +19,7 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.onetracker.net/announce
