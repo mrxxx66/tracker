@@ -604,7 +604,6 @@ udp://5.45.69.185:6969/announce
 udp://5.75.253.124:6969/announce
 udp://5.79.249.77:6969/announce
 udp://5.79.83.193:6969/announce
-udp://504e163a.host.njalla.net:6969/announce
 udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.15.41.46:6969/announce
@@ -1139,7 +1138,6 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
-udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lyretain.site:2710/announce
